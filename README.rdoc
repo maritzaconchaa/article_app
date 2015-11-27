@@ -2,7 +2,7 @@
 
 Simple article app
 
-Create, edit, delete and commnt an article
+Create, edit, delete, list and comment an article, it uses bootstrap
 
 Things you may want to cover:
 
